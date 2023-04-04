@@ -1,0 +1,1 @@
+spark-submit  --master  spark://localhost:7077  --class  testdev.testMain /root/aqy-1.0-SNAPSHOT.jar 10.2.101.60  27017 data hmt Aa123 /root/out/
